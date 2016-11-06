@@ -17,3 +17,9 @@ Hotloader allows developer to make changes to any file and have them reflected i
 server file is in server folder 
 current setup uses Redux. To continue using Redux, make reducers and add them to combineReducers in index.jsx file in src/  app folder
 
+##Dependencies
+- React
+- Redux
+- React-router
+- React-hot-loader
+- Webpack
