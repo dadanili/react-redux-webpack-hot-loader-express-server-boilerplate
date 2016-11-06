@@ -7,11 +7,11 @@ Hotloader allows developer to make changes to any file and have them reflected i
 
 ##Usage
 
-git clone https://github.com/dadanili/react-webpack-hotloader-nodeserver-boilerplate.git
-cd react-webpack-hotloader-nodeserver-boilerplate
-npm install
-npm start
-open http://localhost:3000
+1. git clone https://github.com/dadanili/react-webpack-hotloader-nodeserver-boilerplate.git
+2. cd react-webpack-hotloader-nodeserver-boilerplate
+3. npm install
+4. npm start
+5. open http://localhost:3000
 
 ##Note
 server file is in server folder 
